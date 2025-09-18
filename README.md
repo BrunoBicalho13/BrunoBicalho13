@@ -31,3 +31,6 @@
 </div>
 
   
+### 🐍
+
+![snake dark](https://github.com/YOUR_USERNAME/BrunoBicalho13/blob/output/snake-dark.svg#gh-dark-mode-only)
