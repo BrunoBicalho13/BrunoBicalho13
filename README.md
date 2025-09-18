@@ -33,5 +33,5 @@
   
 ### 🐍
 
-![Snake animation](https://github.com/BrunoBicalho13/BrunoBicalho13/blob/output/snake.svg#gh-light-mode-only)
-![Snake animation dark](https://github.com/BrunoBicalho13/BrunoBicalho13/blob/output/snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/BrunoBicalho13/BrunoBicalho13/blob/output/snake.svg)
+
