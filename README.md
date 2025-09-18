@@ -31,7 +31,4 @@
 </div>
 
   
-### 🐍
-
-![snake gif](https://github.com/BrunoBicalho13/BrunoBicalho13/blob/output/snake.svg)
 
