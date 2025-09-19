@@ -7,13 +7,6 @@
 - 🤔 Atualmente me desafio com questões de Programação Competitiva
 - 😄 Pronomes: ele/dele
 
-<div>
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoBicalho13&show_icons=true&theme=radical&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBicalho13&layout=compact&theme=radical&cache_seconds=1800)
-
-
- </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
